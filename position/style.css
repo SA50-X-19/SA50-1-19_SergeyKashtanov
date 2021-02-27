@@ -149,3 +149,30 @@
     bottom: 50px;
     right: 50px;
    }
+
+.border5 {
+    width: 800px;
+    height: 450px;
+    border: 2px dotted;
+    position: relative;
+    overflow: auto;
+    margin-bottom: 100px;
+}
+.news {
+    width: 800px;
+    height: 50px;
+    background-color: rgb(125, 223, 46);
+    color: white;
+    position: sticky;
+    top: 0;
+    display: table-cell;
+    text-align: center;
+    z-index: 1;
+}
+.help2{
+    width: 780px;
+    height: 970px;
+    position: absolute;
+    top: 100px;
+    border: 2px solid #7CFC00;
+}
